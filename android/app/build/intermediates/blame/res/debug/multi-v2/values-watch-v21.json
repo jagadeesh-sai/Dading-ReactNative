@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\Dading-ReactNative\\Dading_new\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\saravanan\\.gradle\\caches\\transforms-2\\files-2.1\\fd12756fa2ab96b7ec22d928b300dbc5\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
